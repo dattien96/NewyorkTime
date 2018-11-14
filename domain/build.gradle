@@ -1,0 +1,22 @@
+apply plugin: 'java-library'
+apply plugin: 'kotlin'
+apply plugin: 'kotlin-kapt'
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    // kotlin
+    implementation des.kotlin.stdlib
+
+    // reactive
+    implementation des.reactive.rxjava2
+    implementation des.reactive.rxandroid
+    implementation des.reactive.rxkotlin
+
+    // dagger
+    implementation des.dagger.runtime
+    implementation des.dagger.android
+    implementation des.dagger.android_support
+    kapt des.dagger.compiler
+    kapt des.dagger.support_compiler
+}

@@ -1,1 +1,1 @@
-# NewyorkTime
+# nytime_project

@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-beta01.aar/5f5b6af5a3f56681378fae8d45de1fd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/467331722e29aac9e944e89706e9a233/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-beta01.aar/0935a926420ffa78c7f56c80b7b3c874/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-beta01.aar/3e8e78a0f4e55c6c07fb1194a4915ecc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-beta01.aar/ec6bd4be284cb16f5a79dd36712a74ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-beta01.aar/c9f813d596760e42a3142a12412799cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-beta01.aar/7d7783966d7b310f31bb55e854ee6585/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-beta01.aar/0e57b2baddc4d293252a0b07269d7e11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-beta01.aar/ef335125885990469a88b539dedc9ae0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-beta01.aar/e94f31362ba4138de8f11e8ca9368bd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-beta01.aar/cbe022f86fd0f6fd89af37f3b63dff62/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-beta01.aar/eea8924faf5f087098d590564b0e474a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-beta01.aar/2ae24a96d747bc95318741b62806f5d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-beta01.aar/0e7ea60befef230c2df0128bbe3cb55b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-beta01.aar/2d9962806cb1179853e0d3bc3c3016b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/16683042c09655de8ff902c04e503595/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-beta01.aar/ed3d03ef7354e0b7c28fa227ac12966f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8cc9fc4c0accb1f6e43b2466f935d055/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-beta01.aar/a91b1838cc1fa00008902b339163d677/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-beta01.aar/c244df20b81b56ebd54afd9567a74a34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-beta01.aar/31b9ac3290343f2c99dd1eeef441b09b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/print-28.0.0-beta01.aar/8690de2465e9b4d75d295c3483e74d59/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b8a8094219f6b48b0e6197c1891be6b3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/89e59257b599e369aeabfd41c53763b7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/186dc6c9591d401e50d85ae4ffa56bce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-beta01.aar/083615d1aa5e175f4df7a8768ebef9fa/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml
+		ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml
+		ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/467331722e29aac9e944e89706e9a233/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/467331722e29aac9e944e89706e9a233/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/16683042c09655de8ff902c04e503595/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/16683042c09655de8ff902c04e503595/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-beta01.aar/a91b1838cc1fa00008902b339163d677/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-beta01.aar/a91b1838cc1fa00008902b339163d677/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/16683042c09655de8ff902c04e503595/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.framgia.newyorktime.MainActivity
+ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml
+INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-beta01.aar/5f5b6af5a3f56681378fae8d45de1fd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-beta01.aar/5f5b6af5a3f56681378fae8d45de1fd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/467331722e29aac9e944e89706e9a233/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/467331722e29aac9e944e89706e9a233/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-beta01.aar/0935a926420ffa78c7f56c80b7b3c874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-beta01.aar/0935a926420ffa78c7f56c80b7b3c874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-beta01.aar/3e8e78a0f4e55c6c07fb1194a4915ecc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-beta01.aar/3e8e78a0f4e55c6c07fb1194a4915ecc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-beta01.aar/ec6bd4be284cb16f5a79dd36712a74ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-beta01.aar/ec6bd4be284cb16f5a79dd36712a74ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-beta01.aar/c9f813d596760e42a3142a12412799cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-beta01.aar/c9f813d596760e42a3142a12412799cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-beta01.aar/7d7783966d7b310f31bb55e854ee6585/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-beta01.aar/7d7783966d7b310f31bb55e854ee6585/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-beta01.aar/0e57b2baddc4d293252a0b07269d7e11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-beta01.aar/0e57b2baddc4d293252a0b07269d7e11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-beta01.aar/ef335125885990469a88b539dedc9ae0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-beta01.aar/ef335125885990469a88b539dedc9ae0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-beta01.aar/e94f31362ba4138de8f11e8ca9368bd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-beta01.aar/e94f31362ba4138de8f11e8ca9368bd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-beta01.aar/cbe022f86fd0f6fd89af37f3b63dff62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-beta01.aar/cbe022f86fd0f6fd89af37f3b63dff62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-beta01.aar/eea8924faf5f087098d590564b0e474a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-beta01.aar/eea8924faf5f087098d590564b0e474a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-beta01.aar/2ae24a96d747bc95318741b62806f5d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-beta01.aar/2ae24a96d747bc95318741b62806f5d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-beta01.aar/0e7ea60befef230c2df0128bbe3cb55b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-beta01.aar/0e7ea60befef230c2df0128bbe3cb55b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-beta01.aar/2d9962806cb1179853e0d3bc3c3016b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-beta01.aar/2d9962806cb1179853e0d3bc3c3016b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/16683042c09655de8ff902c04e503595/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/16683042c09655de8ff902c04e503595/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-beta01.aar/ed3d03ef7354e0b7c28fa227ac12966f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-beta01.aar/ed3d03ef7354e0b7c28fa227ac12966f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8cc9fc4c0accb1f6e43b2466f935d055/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8cc9fc4c0accb1f6e43b2466f935d055/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-beta01.aar/a91b1838cc1fa00008902b339163d677/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-beta01.aar/a91b1838cc1fa00008902b339163d677/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-beta01.aar/c244df20b81b56ebd54afd9567a74a34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-beta01.aar/c244df20b81b56ebd54afd9567a74a34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-beta01.aar/31b9ac3290343f2c99dd1eeef441b09b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-beta01.aar/31b9ac3290343f2c99dd1eeef441b09b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/print-28.0.0-beta01.aar/8690de2465e9b4d75d295c3483e74d59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/print-28.0.0-beta01.aar/8690de2465e9b4d75d295c3483e74d59/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b8a8094219f6b48b0e6197c1891be6b3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b8a8094219f6b48b0e6197c1891be6b3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/89e59257b599e369aeabfd41c53763b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/89e59257b599e369aeabfd41c53763b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/186dc6c9591d401e50d85ae4ffa56bce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/186dc6c9591d401e50d85ae4ffa56bce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-beta01.aar/083615d1aa5e175f4df7a8768ebef9fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-beta01] /home/nguyen.ho.tien.dat/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-beta01.aar/083615d1aa5e175f4df7a8768ebef9fa/AndroidManifest.xml:20:5-44
+INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml
+INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml
+		ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml
+		ADDED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nguyen.ho.tien.dat/workingspace/Android/NyTime/nytime_project/app/src/main/AndroidManifest.xml

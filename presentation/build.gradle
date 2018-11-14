@@ -1,0 +1,106 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+
+androidExtensions {
+    experimental = true
+}
+
+android {
+    compileSdkVersion build_version.target_sdk
+    defaultConfig {
+        applicationId "com.framgia.newyorktime"
+        minSdkVersion build_version.min_sdk
+        targetSdkVersion build_version.target_sdk
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        javaCompileOptions {
+            annotationProcessorOptions {
+                includeCompileClasspath false
+            }
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    dataBinding {
+        enabled = true
+    }
+
+    flavorDimensions "tier"
+    productFlavors {
+        develop {
+
+        }
+
+        mock {
+
+        }
+
+        production {
+          
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    // kotlin
+    implementation des.kotlin.stdlib
+
+    // support
+    implementation des.support.app_compat
+    implementation des.support.design
+    implementation des.support.recyclerview
+    implementation des.support.cardview
+    implementation des.support.constraint_layout
+
+    // reactive
+    implementation des.reactive.rxjava2
+    implementation des.reactive.rxandroid
+    implementation des.reactive.rxkotlin
+
+    // easy permission
+    implementation des.permission
+
+    // room
+    implementation des.room.runtime
+    kapt des.room.compiler
+
+    // arch
+    implementation des.lifecycle.runtime
+    implementation des.lifecycle.extensions
+    kapt des.lifecycle.compiler
+
+    // dagger
+    implementation des.dagger.runtime
+    implementation des.dagger.android
+    implementation des.dagger.android_support
+    kapt des.dagger.compiler
+    kapt des.dagger.support_compiler
+
+    // test
+    implementation des.runner
+    implementation des.junit
+    implementation des.espresso.core
+
+    // module
+    implementation des.module.domain
+    implementation des.module.data
+
+    //glide
+    implementation des.glide.runtime
+    implementation des.glide.compiler
+
+    //mockito
+    implementation des.mockito.core
+    testImplementation "android.arch.core:core-testing:1.1.1"
+    testImplementation 'org.mockito:mockito-inline:2.13.0'
+    testImplementation "org.robolectric:robolectric:3.4.2"
+}
